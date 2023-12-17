@@ -30,3 +30,4 @@ To get the files onto your machine now, you clone the repository you added to yo
 Application developed through the Explorer module of the @Rocketseat education platform
 
 ### Thank you in advance for any contribution!
+# github-favorites
